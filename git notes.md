@@ -1,13 +1,13 @@
 	1. Git (local)
 
 
-init
+#init
 git init
 
-add
+#add
 git add .
 
-commit
+#commit
 git commit -m "add file"
 
 check commit
